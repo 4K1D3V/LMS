@@ -19,7 +19,6 @@
 
 ## General Information
 
-- It's my high school final computer science project.
 - it intends to solve the hassel of managing library books.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -103,9 +102,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-Created by [S44WN](https://github.com/S44WN) - feel free to contact me!
+Created by [Gravero](https://github.com/iamgravero) - feel free to contact me!
 
 ## License
 
-[MIT License](https://github.com/S44WN/Library-Management-System/blob/main/LICENSE)
-Copyright (c) 2022 Sawan
+[MIT License](https://github.com/iamgravero/LMS/blob/main/LICENSE)
+Copyright (c) 2022 Gravero
