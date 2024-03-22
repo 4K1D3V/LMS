@@ -107,4 +107,4 @@ Created by [Gravero](https://github.com/iamgravero) - feel free to contact me!
 ## License
 
 [MIT License](https://github.com/iamgravero/LMS/blob/main/LICENSE)
-Copyright (c) 2022 Gravero
+Copyright (c) 2022-2024 Gravero
